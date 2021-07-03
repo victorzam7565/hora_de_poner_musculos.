@@ -1,0 +1,17 @@
+@import "~antd/dist/antd.css";
+.ant-layout-sider-children {
+  height: 100vh !important;
+}
+#components-layout-demo-responsive .logo {
+  height: 32px;
+  margin: 16px;
+}
+
+.site-layout-sub-header-background {
+  background: #001529;
+}
+
+.site-layout-background {
+  background: #fff;
+  min-height: auto !important;
+}
